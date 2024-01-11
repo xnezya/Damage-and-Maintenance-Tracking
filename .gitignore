@@ -1,6 +1,6 @@
 node_modules
 .env
-
+client
 # Hardhat files
 /cache
 /artifacts
